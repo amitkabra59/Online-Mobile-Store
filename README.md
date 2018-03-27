@@ -1,4 +1,2 @@
 # Online-Mobile-Store
-ECIL Mini Project
-Just for VIEWING.
-Person who copies the code will be sued!
+An online inventory web application built using Java Technology, MySQL server, JavaScript, JQuery
